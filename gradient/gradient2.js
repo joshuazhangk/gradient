@@ -517,4 +517,4 @@ class Gradient {
 * Gradient.updateFrequency(freq)
 */
 var gradient = new Gradient();
-    gradient.initGradient("#gradient-canvas2");
+    gradient.initGradient("#gradient-canvass");
