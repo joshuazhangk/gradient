@@ -518,3 +518,24 @@ class Gradient {
 */
 var gradient = new Gradient();
     gradient.initGradient("#gradient-canvas");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-2");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-3");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-4");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-5");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-6");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-7");
+
+var gradient = new Gradient();
+    gradient.initGradient("#gradient-canvas-8");
